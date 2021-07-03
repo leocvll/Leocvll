@@ -9,10 +9,9 @@ Welcome to my profile 👋 !
 
 -My name is Leonardo and ....
 
-- 😍  I love technology
-- 🧰  I work Analyst SAP
-- 📕  I really to like learn
-- 💟  I'm a coffee lover
+- 😍   I love technology!!!
+- 🧰   I work Analyst SAP!!!
+- 💟   I'm a coffee lover!!!
 
-Newbie Programmer 👔!!!
+Newbie Programmer in constant knowledge 👔!!!
 
